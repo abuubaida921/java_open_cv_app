@@ -1,0 +1,4 @@
+/usr/bin/ninja \
+  -C \
+  /home/pro/StudioProjects/java_open_cv_app_testing/opencv/.cxx/Debug/1573ht6j/arm64-v8a \
+  clean
