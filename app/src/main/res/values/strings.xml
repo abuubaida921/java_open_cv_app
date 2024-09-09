@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">java_open_cv_app_testing</string>
+    <string name="app_name">java_open_cv_app</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>

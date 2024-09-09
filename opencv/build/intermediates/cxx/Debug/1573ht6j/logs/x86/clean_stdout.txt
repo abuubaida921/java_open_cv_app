@@ -1,1 +1,0 @@
-ninja: Entering directory `/home/pro/StudioProjects/java_open_cv_app/opencv/.cxx/Debug/1573ht6j/x86'

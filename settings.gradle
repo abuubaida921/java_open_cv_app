@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "java_open_cv_app_testing"
+rootProject.name = "java_open_cv_app"
 include ':app'
 include ':opencv'

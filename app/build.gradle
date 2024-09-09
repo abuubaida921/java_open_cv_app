@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.abuubaida921.java_open_cv_app_testing'
+    namespace 'com.abuubaida921.java_open_cv_app'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.abuubaida921.java_open_cv_app_testing"
+        applicationId "com.abuubaida921.java_open_cv_app"
         minSdk 24
         targetSdk 34
         versionCode 1
